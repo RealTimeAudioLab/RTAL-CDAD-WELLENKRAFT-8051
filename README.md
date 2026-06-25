@@ -1,6 +1,6 @@
 # RTAL WELLENKRAFT 8051
 
-# An engineering archive documenting the design and implementation of a complete polyphonic digital synthesizer built around the classic 8051 architecture.
+## An engineering archive documenting the design and implementation of a complete polyphonic digital synthesizer built around the classic 8051 architecture.
 
 > **A complete digital synthesizer engineered from the ground up.**
 >
