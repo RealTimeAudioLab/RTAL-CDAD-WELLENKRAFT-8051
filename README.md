@@ -114,8 +114,14 @@ The result is true eight-voice polyphony without sacrificing synthesis
 quality.
 
 <img src="images/8051_Modul_1.jpg" width="900">
+*Figure 3 – The RTAL WELLENKRAFT 8051 Modul 1*
+</p>
 <img src="images/8051_Modul_2.jpg" width="900">
+*Figure 4 – The RTAL WELLENKRAFT 8051 Modul 2*
+</p>
 <img src="images/8051_Modul_2_mit_FV-1_Modul.jpg" width="900">
+*Figure 5 – The RTAL WELLENKRAFT 8051 Modul 2 with connected FV-1 Modul*
+</p>
 
 ------------------------------------------------------------------------
 
