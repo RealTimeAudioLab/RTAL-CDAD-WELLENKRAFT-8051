@@ -10,14 +10,11 @@
 ------------------------------------------------------------------------
 
 ## The RTAL WELLENKRAFT in its original working environment
-Developed as the digital backbone of a complete studio system.
 
-<p align="center">
-  
+<img src="images/Wellenkraft_2.jpg" width="900">
+*Figure 1 – The RTAL WELLENKRAFT in its original 2009 working environment*
 <img src="images/Front.jpg" width="900">
-  
-*Figure 1 – The RTAL Digital Audio Patchbay in its original 2002 working environment*
-</p>
+*Figure 2 – The RTAL WELLENKRAFT Frontview*
 
 ------------------------------------------------------------------------
 
