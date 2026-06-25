@@ -13,11 +13,10 @@
 
 <img src="images/Wellenkraft_2.jpg" width="900">
 *Figure 1 – The RTAL WELLENKRAFT in its original 2009 working environment*
-
-
+</p>
 <img src="images/Wellenkraft_Front.jpg" width="900">
 *Figure 2 – The RTAL WELLENKRAFT Frontview*
-
+</p>
 ------------------------------------------------------------------------
 
 # In 2018, I Asked Myself One Question
