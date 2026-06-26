@@ -151,23 +151,6 @@ and stored in external EEPROM devices.
 
 ------------------------------------------------------------------------
 
-# Hardware Gallery
-
-Suggested order:
-
-1.  Hero photograph
-2.  Front panel
-3.  Rear panel
-4.  Internal overview
-5.  Processor board A
-6.  Processor board B
-7.  Effects board
-8.  Power supply
-9.  Prototype hardware
-10. Development photos
-
-------------------------------------------------------------------------
-
 # Ctrlr Editor
 
 <img src="images/ctrlr_GUI.jpg" width="900">
@@ -214,16 +197,13 @@ synthesizers.
 # Repository Layout
 
 ``` text
-Assembly/
-Firmware/
-Hardware/
-Schematics/
-Ctrlr/
-Documentation/
-Images/
-Audio/
-Measurements/
-Articles/
+firmware/
+hardware/
+schematics/
+ctrlr/
+docs/
+images/
+audio/
 ```
 
 ------------------------------------------------------------------------
